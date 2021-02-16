@@ -1,3 +1,4 @@
 * linguist-vendored
 *.c linguist-vendored=false
 *.s linguist-vendored=false
+*.cfg linguist-vendored=false
