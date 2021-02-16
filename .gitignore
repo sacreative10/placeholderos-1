@@ -1,0 +1,4 @@
+/.vscode
+/src/boot.o
+/src/kernel.o
+/src/iso/placeholderos.bin
