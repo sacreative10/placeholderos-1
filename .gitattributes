@@ -2,3 +2,4 @@
 *.c linguist-vendored=false
 *.s linguist-vendored=false
 *.cfg linguist-vendored=false
+*.sh linguist-vendored=false
