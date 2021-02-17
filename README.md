@@ -2,11 +2,11 @@
 <b>Note: This is still in heavy development</b>
 
 ## <u>Goals</u>
-> [ ] Enable paging
-> [ ] Writing on kernel
-> [ ] Simple Program
-> [ ] Notepad
-> [ ] <b>Probable</b>: File system, like bash
+> - [ ] Enable paging
+> - [ ] Writing on kernel
+> - [ ] Simple Program
+> - [ ] Notepad
+> - [ ] <b>Probable</b>: File system, like bash
 
 ## Presquties
 > qemu
