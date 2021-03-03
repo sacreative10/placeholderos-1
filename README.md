@@ -21,7 +21,7 @@
 
 
 
-<b>All of the .sh commands are on linux and on a custom directory. Please change the .sh file *on your own local env* to this accordance or run the commands manually.</b>
+<b>All of the .sh commands are on linux and on a custom directory. Please change the .sh file *on your own local enviroment* settings or run the commands yourself .</b>
 
 
 
