@@ -1,4 +1,4 @@
-# PlaceholderOS/ JunaidOS (pronounced Yunae-dos)
+# PlaceholderOS
 <b>Note: This is still in heavy development</b>
 
 ## <u>Goals</u>
@@ -8,7 +8,7 @@
 > - [ ] Notepad
 > - [ ] <b>Probable</b>: File system, like bash
 
-## Presquties
+## Prerequisite
 > qemu
 > i686-elf cross-compiler https://wiki.osdev.org/GCC_Cross-Compiler
 > Linux for ease :).
