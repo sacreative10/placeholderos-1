@@ -3,7 +3,7 @@
 void kernel_main() {
     print_clear();
     print_set_color(PRINT_COLOR_RED, PRINT_COLOR_BLACK);
-    print_str("Welcome to JunaidOS\n");
+    print_str("Welcome to PlaceholderOS\n");
     print_str("Built By Sohaib Alam\n");
     print_str("#######\n");
     print_str("#   # #\n");
